@@ -6,6 +6,7 @@ Effective on face spoofing
 
 # Used Technology 
 Tkinter
+Python
 OpenCV/Haar-Cascades
 Tenser Flow / keras
 
